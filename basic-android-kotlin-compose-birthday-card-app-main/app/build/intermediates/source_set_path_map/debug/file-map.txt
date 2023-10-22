@@ -38,9 +38,9 @@ com.example.happybirthday.app-core-ktx-1.10.1-36 C:\Users\Eric\.gradle\caches\tr
 com.example.happybirthday.app-foundation-1.4.3-37 C:\Users\Eric\.gradle\caches\transforms-3\e0faa4b74d0c9d5f401b5a631467d634\transformed\foundation-1.4.3\res
 com.example.happybirthday.app-material-1.4.3-38 C:\Users\Eric\.gradle\caches\transforms-3\e356fb2c465fcb379e3a76534956f312\transformed\material-1.4.3\res
 com.example.happybirthday.app-ui-text-1.4.3-39 C:\Users\Eric\.gradle\caches\transforms-3\eec140d30a234521e476e3e227234961\transformed\ui-text-1.4.3\res
-com.example.happybirthday.app-resValues-40 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\build\generated\res\resValues\debug
-com.example.happybirthday.app-packageDebugResources-41 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.happybirthday.app-packageDebugResources-42 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.happybirthday.app-merged_res-43 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\merged_res\debug
-com.example.happybirthday.app-debug-44 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\src\debug\res
-com.example.happybirthday.app-main-45 C:\Users\Eric\Desktop\basic-android-kotlin-compose-birthday-card-app-main\app\src\main\res
+com.example.happybirthday.app-resValues-40 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\build\generated\res\resValues\debug
+com.example.happybirthday.app-packageDebugResources-41 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.happybirthday.app-packageDebugResources-42 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.happybirthday.app-merged_res-43 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\build\intermediates\merged_res\debug
+com.example.happybirthday.app-debug-44 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\src\debug\res
+com.example.happybirthday.app-main-45 C:\Users\Eric\Desktop\Pawn\Pawn\basic-android-kotlin-compose-birthday-card-app-main\app\src\main\res
