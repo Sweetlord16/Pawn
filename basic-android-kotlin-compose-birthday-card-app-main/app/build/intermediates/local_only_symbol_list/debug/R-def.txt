@@ -8,6 +8,6 @@ drawable ic_launcher_foreground
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
-string happy_birthday_text
+string developer_text
 string signature_text
 style Theme.HappyBirthday

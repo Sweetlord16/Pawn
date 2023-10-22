@@ -213,10 +213,10 @@ string date_range_picker_start_headline
 string date_range_picker_title
 string default_error_message
 string default_popup_window_title
+string developer_text
 string dialog
 string dropdown_menu
 string expanded
-string happy_birthday_text
 string in_progress
 string indeterminate
 string navigation_menu

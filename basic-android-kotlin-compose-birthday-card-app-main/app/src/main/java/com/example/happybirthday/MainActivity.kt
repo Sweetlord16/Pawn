@@ -39,20 +39,20 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.happybirthday.ui.theme.HappyBirthdayTheme
+import com.example.happybirthday.ui.theme.GreetingCardTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            HappyBirthdayTheme {
+            GreetingCardTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
                     GreetingImage(
-                        stringResource(R.string.happy_birthday_text),
+                        stringResource(R.string.developer_text),
                         stringResource(R.string.signature_text)
                     )
                 }
@@ -138,10 +138,10 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
 
 @Preview(showBackground = false)
 @Composable
-private fun BirthdayCardPreview() {
-    HappyBirthdayTheme {
+private fun GreetingCardPreview() {
+    GreetingCardTheme {
         GreetingImage(
-            stringResource(R.string.happy_birthday_text),
+            stringResource(R.string.developer_text),
             stringResource(R.string.signature_text)
         )
     }
